@@ -1,0 +1,41 @@
+
+h1, h3, h4{
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke: 1px black;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+
+h2, ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   -webkit-text-stroke: 1px black;
+   color: white;
+   font-size: 25px;
+
+}
+
+h5, h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: 1px black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0%;
+}
+
+footer, form{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: 1px black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://1.bp.blogspot.com/-vjgPsAxXNHk/X_1_9-1iCoI/AAAAAAAAd6Y/LEF5Nf3Hm1EVhlnU3-CVsuguwNDVhPw_QCLcBGAsYHQ/d/V1-01122021-LANDSCAPE-MOUNTAIN-PC-HD.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+    
